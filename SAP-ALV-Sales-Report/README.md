@@ -14,8 +14,9 @@ This project demonstrates a simple Interactive Sales Report using ALV in SAP BTP
 - ABAP (Advanced Business Application Programming)
 - ALV (ABAP List Viewer)
 
-## 📷 Screenshots
-(Add your screenshots in the screenshots folder)
+## 📷 ALV Output
+
+![ALV Output](screenshots/alv_output.png)
 
 ## ▶️ How to Run
 1. Import the ABAP file into Eclipse (ADT)
